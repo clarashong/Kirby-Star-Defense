@@ -14,31 +14,24 @@ I simply wanted to make a shooter game involving such beloved characters.
 
 In order for the game to be able to choose the solution word, users must have Greenfoot installed. 
 Greenfoot can be installed at:
-[https://www.greenfoot.org/download](https://www.greenfoot.org/download)
-
-\Once installed, open Greenfoot, click Scenario >> open >> choose folder: HongClaraKirbyStarDefense
+[https://www.greenfoot.org/download](https://www.greenfoot.org/download) 
+\
+Once installed, open Greenfoot, click Scenario >> open >> choose folder: HongClaraKirbyStarDefense
 
 
 To play the game, click Run. 
 
-```sh
-pip install tk
-```
-
-## Usage
-Start the game by choosing the number of letters and clicking READY: \
+## GamePlay 
+Shoot the enemies with your stars: 
 \
-<img src="Images/wordle1.png" alt="drawing" width="300"/> 
+<img src="GameShots/GamePlay.png" alt="drawing" width="300"/> 
 \
-Play by typing guesses into the text box and pressing submit: \
+Watch out for the Big Boss!: 
 \
-<img src="Images/wordle2.png" alt="drawing" width="300"/>
+<img src="GameShots/Boss.png" alt="drawing" width="300"/>
 \
-Keep guessing until the solution is reached or guesses are maxed out: \
-\
-<img src="Images/wordle4.png" alt="drawing" width="300"/>
-\
-<img src="Images/wordle5.png" alt="drawing" width="300"/>
+If your ores run out of health: \
+<img src="GameShots/Lose.png" alt="drawing" width="300"/>
 
 ## License
 Kirby and its universe's characters belong to Nintendo and HAL's Labratory
