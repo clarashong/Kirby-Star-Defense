@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\n\ Enemies\:\ The\ player\ has\ to\ destroy\ them.\ \n\ They\ try\ to\ destroy\ the\ rocks.\ \n\ Enemy\ Guide\:\ Waddle\ Dees\ ->\ orange\ monkeys,\ need\ two\ shots\ to\ kill,\ walk\ towards\ rocks\ to\ destroy\ them.\ \n\ Awoofies\ ->\ Dog\ creatures,\ need\ one\ shot\ to\ kill,\ dashes\ towards\ rocks\ to\ destroy\ them,\ but\ they\ do\ less\ damage\ than\ waddle\ dees.\ \n\ Scarfies\ ->\ Tiny\ orange\ blobs,\ they\ need\ one\ shot\ to\ kill,\ they\ lie\ along\ the\ ends\ of\ the\ lanes\ and\ shoot\ the\ walls.\ \n
+comment1.params=enemyTypes
+comment1.target=Enemy(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=projectileDamage
+comment4.target=void\ damageMe(int)
+comment4.text=\n\ Updates\ the\ enemy's\ hp\ based\ on\ damage\ caused\ by\ a\ projectile.\ If\ the\ hp\ is\ at\ 0\ or\ less\ than\ 0,\ the\ enemy\ will\ "die"\ and\ be\ removed\ and\n\ a\ pop\ sound\ will\ be\ played.\ \n
+comment5.params=right
+comment5.target=void\ shootWall(boolean)
+comment5.text=\n\ This\ method\ makes\ scarfies\ shoot\ a\ projectile\ at\ the\ wall.\ It\ only\ works\ for\ scarfies\ and\ if\ they\ are\ in\ the\ right\ position\ for\ shooting.\ \n\ The\ only\ parameter\ is\ "right"\ which\ dictates\ which\ way\ the\ enemy\ is\ facing\ which\ is\ passed\ onto\ the\ projectiles\ properties,\ so\ that\ the\ \n\ projectile\ is\ shot\ the\ right\ way.\ \n
+numComments=6

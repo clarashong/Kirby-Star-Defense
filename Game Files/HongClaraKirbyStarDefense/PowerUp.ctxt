@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PowerUp
+comment0.text=\n\ Power-ups\ are\ what\ aid\ the\ player\ in\ surviving\ as\ well\ as\ defeating\ the\ enemies.\ \n\ A\ guide\ to\ what\ each\ power-up\ does\ is\ included\ in\ the\ multi-block\ comment\ in\ the\ GameWorld.\ \n\ The\ player\ must\ shoot\ the\ power-ups\ in\ order\ to\ use\ their\ abilities.\ \n
+comment1.params=powerUpTypes
+comment1.target=PowerUp(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=imageNum
+comment4.target=java.lang.String\ findCurrentPowerUp(int)
+comment5.params=
+comment5.target=java.lang.String\ getCurrentPowerUp()
+comment6.params=
+comment6.target=void\ usePower()
+numComments=7

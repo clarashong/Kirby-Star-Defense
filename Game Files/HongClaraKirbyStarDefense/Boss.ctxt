@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Boss
+comment0.text=\n\ The\ Boss\ is\ the\ big\ enemy\ that\ comes\ onto\ the\ world\ at\ the\ last\ wave\ of\ the\ game,\ wave\ 10.\ \n\ He\ takes\ the\ image\ of\ chef\ Kawasaki,\ and\ he\ remains\ on\ the\ right\ side\ of\ the\ world.\ \n\ Every\ now\ and\ then,\ he\ moves\ up\ and\ down,\ then\ shoots\ about\ 10\ shots\ of\ 3\ projectiles\ in\ each\ shot.\ \n\ The\ player\ must\ defeat\ him\ to\ win\ the\ game.\ \n
+comment1.params=
+comment1.target=Boss()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=damage
+comment4.target=void\ damageMe(int)
+comment5.params=
+comment5.target=void\ shoot()
+comment6.params=
+comment6.target=void\ checkWin()
+numComments=7

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ScoreBar
+comment0.text=\n\ Code\ is\ borrowed/copied\ from\ Mr.\ Cohen's\ ScoreBar\ class\ in\ the\ Bug\ Simulator\ -\ OOPLessonInBugs.\ \n\ Some\ things\ have\ been\ modified\ to\ fit\ the\ aesthetic\ of\ my\ game.\ \n
+comment1.params=width
+comment1.target=ScoreBar(int)
+comment1.text=\n\ Construct\ a\ ScoreBar\ of\ the\ appropriate\ size.\n\ \n\ @param\ width\ \ \ \ \ width\ of\ the\ World\ where\ the\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ ScoreBar\ will\ be\ placed\n
+comment2.params=output
+comment2.target=void\ update(java.lang.String)
+comment2.text=\n\ Takes\ a\ String\ and\ displays\ it\ centered\ to\ the\ screen.\n\ \n\ @param\ output\ \ \ \ Text\ for\ displaying.\ \n
+numComments=3

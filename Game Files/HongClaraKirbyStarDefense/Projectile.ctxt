@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\n\ A\ projectile\ is\ what\ either\ the\ player\ or\ the\ enemy\ shoots.\ It\ can\ be\ used\ to\ damage\ enemies\ or\ damage\ the\ rocks.\ \n
+comment1.params=facingRight\ user
+comment1.target=Projectile(boolean,\ java.lang.String)
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=newIsRed
+comment4.target=void\ setIsRed(boolean)
+comment5.params=newRedsLeft
+comment5.target=void\ setRedsLeft(int)
+numComments=6

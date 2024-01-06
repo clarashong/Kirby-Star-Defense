@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WelcomeWorld
+comment0.text=\n\ This\ is\ the\ player's\ welcome\ screen\n
+comment1.params=
+comment1.target=WelcomeWorld()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

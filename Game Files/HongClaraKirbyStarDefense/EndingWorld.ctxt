@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EndingWorld
+comment0.text=\n\ This\ is\ the\ world\ that\ shows\ up\ at\ the\ end\ of\ the\ game.\ \n
+comment1.params=win
+comment1.target=EndingWorld(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ stopped()
+numComments=4

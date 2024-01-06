@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\n\ The\ Player,\ Kirby,\ is\ who\ the\ user\ controls\ to\ play\ the\ game.\ Kirby\ moves\ up\ and\ down\ and\ faces\ left\ and\ right\ with\ the\ arrow\ keys.\ \n\ Kirby\ will\ shoot\ a\ projectile\ when\ the\ space\ bar\ is\ pressed,\ and\ it\ shoots\ in\ order\ to\ protect\ the\ rainbow\ ores\ from\ the\ enemies.\ \n
+comment1.params=
+comment1.target=Player()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkKeys()
+comment3.text=\ \n\ This\ method\ takes\ what\ key\ is\ pressed\ in\ order\ to\ decide\ how\ Kirby\ will\ move.\ it\ also\ includes\ the\ keys\ that\ activate\n\ the\ cheat\ codes.\ For\ example,\ "b"\ will\ bring\ the\ user\ immediately\ to\ the\ boss\ battle,\ and\ "7"\ will\ bring\ the\ user\ to\ \n\ wave\ 7.\ \n
+comment4.params=right
+comment4.target=void\ shoot(boolean)
+comment5.params=
+comment5.target=void\ makeShotSound()
+numComments=6

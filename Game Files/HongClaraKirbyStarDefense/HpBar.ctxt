@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=HpBar
+comment0.text=\n\ The\ HpBar\ is\ what\ displays\ the\ health\ of\ the\ rocks\ or\ the\ boss.\ It\ consists\ of\ 5\ boxes,\ one\ box\ at\ a\ time\ will\ disappear\ when\ a\ fifth\ \n\ of\ the\ item's\ hp\ is\ lost.\ \n\ The\ boxes\ are\ also\ coloured\ to\ display\ the\ state\ of\ the\ corresponding\ object's\ health\:\ \n\ 4-5\ boxes\ left\ -\ green\n\ 2-3\ boxes\ left\ -\ yellow\n\ 1\ box\ left\ -\ red\n
+comment1.params=maxHp
+comment1.target=HpBar(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=newHp
+comment3.target=void\ updateHp(int)
+comment4.params=
+comment4.target=void\ setUpImage()
+comment5.params=
+comment5.target=void\ setAllBlack()
+numComments=6

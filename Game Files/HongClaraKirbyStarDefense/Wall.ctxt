@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\n\ The\ Wall\ is\ a\ class\ that\ encompasses\ all\ the\ rainbow\ ores\ in\ the\ game.\ The\ game\ ends\ when\ one\ of\ these\ ores\ have\ reached\ 0hp.\ \n\ The\ player\ must\ protect\ them\ to\ win\ the\ game.\ \n\ Each\ rock\ has\ five\ stages\ of\ images\ that\ display\ the\ state\ of\ health\ that\ it's\ in.\ \n
+comment1.params=
+comment1.target=Wall()
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ setMax()
+comment5.params=
+comment5.target=int\ getHp()
+comment6.params=damage
+comment6.target=void\ damageMe(int)
+comment7.params=
+comment7.target=void\ genImageArray()
+comment8.params=
+comment8.target=void\ genWallState()
+numComments=9
