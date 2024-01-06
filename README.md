@@ -26,7 +26,7 @@ Shoot the enemies with your stars:
 \
 <img src="GameShots/GamePlay.png" alt="drawing" width="300"/> 
 \
-Watch out for the Big Boss!: 
+Survive each wave and watch out for the Big Boss!: 
 \
 <img src="GameShots/Boss.png" alt="drawing" width="300"/>
 \
