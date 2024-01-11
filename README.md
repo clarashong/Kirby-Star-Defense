@@ -1,6 +1,7 @@
 # Kirby Star Defense
- Fan-made Kirby Shooter Game
+ Kirby Shooter Game 
  Completed 2022
+ By Clara Hong (clarashong)
 
 ## Description
 
