@@ -1,13 +1,13 @@
 # Kirby Star Defense
- Kirby Shooter Game 
- Completed 2022
- By Clara Hong (clarashong)
+Kirby Shooter Game \
+Completed 2022 \
+By **Clara Hong** (clarashong)
 
 ## Description
 
-This project is a fun shooter game starring the beloved character Kirby by Masahiro Sakurai. 
-The player fights Kirby-universe enemies in an effort to protect their precious ores. The game was used as practice and an opportunity to learn Greenfoot, 
-object oriented programming and game design. 
+This fun shooter game project stars the beloved character Kirby by Masahiro Sakurai. 
+The player fights Kirby-universe enemies in an effort to protect their precious ores. The game was practice and an opportunity to learn Greenfoot, 
+object oriented programming, and game design. 
 Kirby and its universe's characters belong to Nintendo and HAL's Labratory, I do not take any credit for character designs. 
 I simply wanted to make a shooter game involving such beloved characters. 
 
